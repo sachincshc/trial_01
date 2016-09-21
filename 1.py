@@ -1,5 +1,3 @@
-pling
-print "Hello world"
 import cmath
 
 num = eval(input('Enter a number: '))
